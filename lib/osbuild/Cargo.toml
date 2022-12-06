@@ -23,3 +23,6 @@ license = "Apache-2.0"
 repository = "https://github.com/osbuild/osbuild-rs"
 
 [dependencies]
+libc = "^0.2.138"
+cap-std = "^1.0.1"
+cap-std-ext = "^1.0.1"
